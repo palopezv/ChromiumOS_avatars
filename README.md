@@ -13,6 +13,16 @@
 | 7 | pizza | ![pizza](./abstract/avatar_pizza.png) |
 | 8 | sandwich | ![sandwich](./abstract/avatar_sandwich.png) |
 
+## Geo
+
+| No. | Name | Avatar |
+|-----|-----|---------|
+| 1 | geo1 | ![geo1](./geo/avatar_geo1.png) |
+| 2 | geo2 | ![geo2](./geo/avatar_geo2.png) |
+| 3 | geo3 | ![geo3](./geo/avatar_geo3.png) |
+| 4 | geo4 | ![geo4](./geo/avatar_geo4.png) |
+| 5 | geo5 | ![geo5](./geo/avatar_geo5.png) |
+
 ## Illustration
 | No. | Name | Avatar |
 |-----|------|--------|
