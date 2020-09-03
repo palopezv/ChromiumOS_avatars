@@ -1,5 +1,32 @@
 # [ChromiumOS avatar images](https://github.com/chromium/chromium/tree/7797b8c8b6a322bb820452b554279e8c24a6982b/ui/chromeos/resources/default_200_percent/default_user_images/)
 
+## Abstract
+
+| No. | Name | Avatar |
+|-----|-----|---------|
+| 1 | avocado | ![avocado](./abstract/avatar_avocado.png) |
+| 2 | cappuccino | ![cappuccino](./abstract/avatar_cappuccino.png) |
+| 3 | icecream | ![icecream](./abstract/avatar_icecream.png) |
+| 4 | icewater | ![icewater](./abstract/avatar_icewater.png) |
+| 5 | melon | ![melon](./abstract/avatar_melon.png) |
+| 6 | onigiri | ![onigiri](./abstract/avatar_onigiri.png) |
+| 7 | pizza | ![pizza](./abstract/avatar_pizza.png) |
+| 8 | sandwich | ![sandwich](./abstract/avatar_sandwich.png) |
+
+## Illustration
+| No. | Name | Avatar |
+|-----|------|--------|
+| 1 | basketball | ![basketball](./illustration/avatar_basketball.png) | 
+| 2 | bike | ![bike](./illustration/avatar_bike.png) | 
+| 3 | bird | ![bird](./illustration/avatar_bird.png) | 
+| 4 | chese | ![chese](./illustration/avatar_chese.png) | 
+| 5 | football | ![football](./illustration/avatar_football.png) | 
+| 6 | ramen | ![ramen](./illustration/avatar_ramen.png) | 
+| 7 | sunglasses | ![sunglasses](./illustration/avatar_sunglasses.png) | 
+| 8 | sushi | ![sushi](./illustration/avatar_sushi.png) | 
+| 9 | tamagotchi | ![tamagotchi](./illustration/avatar_tamagotchi.png) | 
+| 10 | vinyl | ![vinyl](./illustration/avatar_vinyl.png) | 
+
 ## Origami
 
 | No. | Name | Avatar |
@@ -18,18 +45,3 @@
 | 12 | redbutterfly | ![cat](./origami/avatar_redbutterfly.png) |
 | 13 | snail | ![cat](./origami/avatar_snail.png) |
 | 14 | unicorn | ![cat](./origami/avatar_unicorn.png) |
-
-## Illustration
-| No. | Name | Avatar |
-|-----|------|--------|
-| 1 | basketball | ![basketball](./illustration/avatar_basketball.png) | 
-| 2 | bike | ![bike](./illustration/avatar_bike.png) | 
-| 3 | bird | ![bird](./illustration/avatar_bird.png) | 
-| 4 | chese | ![chese](./illustration/avatar_chese.png) | 
-| 5 | football | ![football](./illustration/avatar_football.png) | 
-| 6 | ramen | ![ramen](./illustration/avatar_ramen.png) | 
-| 7 | sunglasses | ![sunglasses](./illustration/avatar_sunglasses.png) | 
-| 8 | sushi | ![sushi](./illustration/avatar_sushi.png) | 
-| 9 | tamagotchi | ![tamagotchi](./illustration/avatar_tamagotchi.png) | 
-| 10 | vinyl | ![vinyl](./illustration/avatar_vinyl.png) | 
-
