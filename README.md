@@ -34,14 +34,15 @@
 | 1 | butterflies | ![butterflies](./origami/avatar_butterflies.png) |
 | 2 | cat | ![cat](./origami/avatar_cat.png) |
 | 3 | corgi | ![corgi](./origami/avatar_corgi.png) |
-| 4 | dragon | ![cat](./origami/avatar_dragon.png) |
-| 5 | elephant | ![cat](./origami/avatar_elephant.png) |
-| 6 | fox | ![cat](./origami/avatar_fox.png) |
-| 7 | monkey | ![cat](./origami/avatar_monkey.png) |
-| 8 | panda | ![cat](./origami/avatar_panda.png) |
-| 9 | penguin | ![cat](./origami/avatar_penguin.png) |
-| 10 | pinkbutterfly | ![cat](./origami/avatar_pinkbutterfly.png) |
-| 11 | rabbit | ![cat](./origami/avatar_rabbit.png) |
-| 12 | redbutterfly | ![cat](./origami/avatar_redbutterfly.png) |
-| 13 | snail | ![cat](./origami/avatar_snail.png) |
-| 14 | unicorn | ![cat](./origami/avatar_unicorn.png) |
+| 4 | dragon | ![dragon](./origami/avatar_dragon.png) |
+| 5 | elephant | ![elephant](./origami/avatar_elephant.png) |
+| 6 | fox | ![fox](./origami/avatar_fox.png) |
+| 7 | monkey | ![monkey](./origami/avatar_monkey.png) |
+| 8 | panda | ![panda](./origami/avatar_panda.png) |
+| 9 | penguin | ![penguin](./origami/avatar_penguin.png) |
+| 10 | pinkbutterfly | ![pinkbutterfly](./origami/avatar_pinkbutterfly.png) |
+| 11 | rabbit | ![rabbit](./origami/avatar_rabbit.png) |
+| 12 | redbutterfly | ![redbutterfly](./origami/avatar_redbutterfly.png) |
+| 13 | snail | ![snail](./origami/avatar_snail.png) |
+| 14 | unicorn | ![unicorn](./origami/avatar_unicorn.png) |
+
