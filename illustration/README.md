@@ -5,7 +5,7 @@
 | 1 | basketball | ![basketball](./avatar_basketball.png) | 
 | 2 | bike | ![bike](./avatar_bike.png) | 
 | 3 | bird | ![bird](./avatar_bird.png) | 
-| 4 | chese | ![chese](./avatar_chese.png) | 
+| 4 | cheese | ![chese](./avatar_cheese.png) | 
 | 5 | football | ![football](./avatar_football.png) | 
 | 6 | ramen | ![ramen](./avatar_ramen.png) | 
 | 7 | sunglasses | ![sunglasses](./avatar_sunglasses.png) | 
